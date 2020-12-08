@@ -1,0 +1,37 @@
+@font-face{
+    font-family: '04B_30__';
+    src: url('./fonts/04B_30__.TTF');
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+canvas{
+    width: 512px;
+    height: 512px;
+
+    padding: 50px;
+}
+
+
+.title{
+    width: 300px;
+    height: 50px;
+
+    margin-top: 50px;
+
+    border-radius: 15px;
+    
+    font-family: '04B_30__';
+    font-weight: 600;
+    font-size: 30px;
+    color: #73c4fa;
+
+    transition: 0.25s;
+}

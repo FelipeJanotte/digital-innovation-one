@@ -1,0 +1,204 @@
+/*#0095f6 azul botao entrar e cadastre-se
+
+    Instagram Logo - 51px height
+    Facebook Logo - 19px height
+    Celular - 618px height
+    Google Play store height="55px"
+    Apple Store height="40px"
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.cellphone{height: 618px; margin: auto -15px auto 25%;}
+.facebook-logo{height: 25px; margin: 0px 8px -10px 0px;}
+.apple-store{height: 40px;}
+.play-store{height: 55px;}
+.instagram-logo{width: 175px; margin: 22px 86.5px 12px 86.5px;}
+
+
+.instagram-wrapper{
+    display: flex;
+    flex-direction: row;
+    margin: 30px auto 0;
+    align-items: center;
+}
+
+
+.group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0 0 10px 0;
+    padding: 20px 0 20px 0;
+
+    border: solid 1px #dbdbdb;
+}
+
+.group a{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #385185;
+}
+
+.group .forgot{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #00376b;
+
+    margin: 15px 0 10px 0;
+}
+
+.group .sign-up{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #0095f6;
+}
+
+.group p{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.group p a{
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #0095f6;
+}
+
+input{
+    width: 250px;
+    height: 20px;
+    padding: 9px 8px 7px 8px;
+    margin-top: 8px;
+
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+
+    border: 1px solid #dbdbdb;
+    color: #dbdbdb;
+}
+
+button{
+    width: 268px;
+    height: 30px;
+    margin: 8px 40px 8px 40px;
+
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+
+    color: white;
+    border: none;
+    border-radius: 4px;
+    background-color: #0095f6;
+
+    cursor: pointer;
+}
+
+/*--------OR LOGIN WITH--------*/
+
+.or{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    margin: 10px 0 20px 0;
+}
+
+.or span{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: #dbdbdb;
+
+    margin: 0 19px 0 19px;
+}
+
+.or .line{
+    background-color: #dbdbdb;
+    width: 106px;
+    height: 1px;
+}
+
+/*--------DOWNLOAD APP--------*/
+
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app span{
+    color: #262626;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.app div{
+    display: flex;
+    align-items: center;
+}
+
+.app div img{
+    cursor: pointer;
+}
+
+/*--------FOOTER--------*/
+
+footer{
+    display: flex;
+    flex-direction: row;
+    margin: 50px 25px 50px 80px;
+}
+
+footer .link-footer{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #00376b;
+
+    margin: 0 10px 0 5px;
+}
+
+footer .copyright{
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #8e8e8e;
+
+    margin: 0 auto 0;
+}
+
+/* RESPONSIVE */
+
+@media screen and (max-width:1024px){
+    .instagram-phone{
+        display: none;
+    }
+    .instagram-login{
+        margin-left: 33%;
+    }
+    footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    .link-footer{
+        margin: 15px 0;
+    }
+}

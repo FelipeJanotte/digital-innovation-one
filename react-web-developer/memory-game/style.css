@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    background: #101825;
+}
+
+.memory-game{
+    height: 95%;
+    width: 75%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 1000px;
+}
+
+.card {
+    height: calc(3.333% - 10px);
+    width: calc(25% - 10px);
+
+    margin: 5px;
+
+    position: relative;
+    transform: scale(1);
+
+    cursor: pointer;
+    transform-style: preserve-3d; /* Não deixa o elemento achatado no plano */
+    transition: transform .9s;
+
+}
+
+.card:active{
+    transform: scale(0.97);
+    transition: transform .3s;
+}
+
+
+
+.card-front,
+.card-back {
+    width: 250px;
+    height: 150px;
+
+    padding: 15px;
+    position: absolute;
+
+    border-radius: 5px;
+    background: #101825;
+    border: solid 1px #FF4654;
+
+
+    backface-visibility: hidden;
+}
+
+.card-front{
+    transform: rotateY(180deg);
+}
+
+.card-back img{
+    border-radius: 5px;
+}
+
+/* Animação */
+
+.card.flip{
+    transform: rotateY(180deg);
+}
