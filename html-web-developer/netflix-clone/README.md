@@ -15,9 +15,9 @@
 
 ## :globe_with_meridians: Tecnologias 
 
--  :toolbox: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
--  :toolbox: [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
--  :toolbox: ​[JavaScript](https://www.javascript.com/) 
+-  [<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="20">HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-   [<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="20">CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-   [<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="20">JavaScript](https://www.javascript.com/) 
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## ⬇ Dependências
 
-- :green_circle: [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
+- :heavy_check_mark: [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 
 ---
 

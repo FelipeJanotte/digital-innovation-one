@@ -16,10 +16,10 @@
 
 ## :globe_with_meridians: Tecnologias 
 
-- :diamond_shape_with_a_dot_inside: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- :diamond_shape_with_a_dot_inside: [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- :diamond_shape_with_a_dot_inside: ​[JavaScript](https://www.javascript.com/)
-- :diamond_shape_with_a_dot_inside: ​[ReactJS](https://reactjs.org/)
+- [<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="20">HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="20">CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="20">JavaScript](https://www.javascript.com/)
+- [<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" height="20">ReactJS](https://reactjs.org/)
 
 ---
 

@@ -17,8 +17,8 @@
 
 ## :globe_with_meridians: Tecnologias 
 
-- ⚛️ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="20">HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-  [<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="20">CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
 

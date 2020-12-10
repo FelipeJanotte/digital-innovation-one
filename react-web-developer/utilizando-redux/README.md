@@ -16,10 +16,10 @@ Aprenda sobre a arquitetura Redux e como ela pode facilitar o gerenciamento dos 
 
 ## :globe_with_meridians: Tecnologias 
 
-- :heavy_check_mark: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- :heavy_check_mark: [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- :heavy_check_mark: ​[JavaScript](https://www.javascript.com/)
-- :heavy_check_mark: ​[ReactJS](https://reactjs.org/)
+- [<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="20">HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-  [<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="20">CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-  [<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="20">JavaScript](https://www.javascript.com/)
+-  [<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" height="20">ReactJS](https://reactjs.org/)
 
 ---
 
