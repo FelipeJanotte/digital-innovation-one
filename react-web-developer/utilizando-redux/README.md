@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="./course-badge.png" width="130px"></br>
     Como gerenciar o estado das aplicações com Redux<br>
-    <a target="blank" href="https://digitalinnovation.one/"><img src="https://img.shields.io/badge/made%20by-Digital%20Innovation%20One-green"></a>
+    <a target="_blank" href="https://digitalinnovation.one/"><img src="https://img.shields.io/badge/made%20by-Digital%20Innovation%20One-green"></a>
 </h1
 
 ---
