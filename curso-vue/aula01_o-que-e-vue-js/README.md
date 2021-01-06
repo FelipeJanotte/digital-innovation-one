@@ -23,9 +23,9 @@ Teve a ideia de pegar as coisas boas que o Angular.JS fornecia para construir al
 
 <p align="center">
     <a href="https://vuejs.org/">
-        <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" height="20">Vue.JS (Site Oficial)
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20">Vue.JS (Site Oficial)
     </a><br/>
     <a href="https://github.com/vuejs/vue/">
-        <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" height="20">Vue.JS (Github Oficial)
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20">Vue.JS (Github Oficial)
     </a>
 </p>

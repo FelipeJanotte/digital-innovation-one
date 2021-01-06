@@ -16,18 +16,19 @@
 
 ## :globe_with_meridians: Tecnologias 
 
-- [<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="20">HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="20">CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="20">JavaScript](https://www.javascript.com/)
-- [<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" height="20">ReactJS](https://reactjs.org/)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20">HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20">CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20">JavaScript](https://www.javascript.com/)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="20">ReactJS](https://reactjs.org/)
 
 ---
 
 ## :hammer: Ferramentas
 
-- :heavy_check_mark: Browser(De sua preferência)
-- :heavy_check_mark: Visual Studio Code
-- :heavy_check_mark: [NodeJS](https://nodejs.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" height="20"> Browser(De sua preferência)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="20">NodeJS](https://nodejs.org/)
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="20"> Editor de texto(De sua preferência)
 
 ---
 

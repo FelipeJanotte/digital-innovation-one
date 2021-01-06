@@ -27,4 +27,5 @@ yarn global add @vue/cli
 ~~~
 
 ### Documentação
-[<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" height="20">Vue CLI](https://cli.vuejs.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="20">Vue CLI](https://cli.vuejs.org)
+
